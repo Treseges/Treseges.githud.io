@@ -1,0 +1,39 @@
+img{
+	margin: 25px ;
+	border:2.5px solid darkred;
+	border-radius: 60px 60px 60px 60px; 
+}
+h4{
+  color: lightblue;
+ }
+ h3{
+ font-family: unset;
+ size: 10px
+
+}
+body{
+  background: linear-gradient(190deg,white,lightgrey,grey,darkgrey);
+  color: white;
+}
+h1{
+font-family: fantasy; 
+color: black;
+text-align: center;
+}
+p{
+  text-align: center;
+  font-family: monospace;
+}
+h5{
+  text-align: right;
+  color: lightgrey;
+}
+button{
+	size: 50px;
+}
+em{
+font-size:25px
+}
+a{
+	font-family: monospace;
+}
